@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+@media screen{
+.allmyparts {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+}
+
+@media screen{
+.feet {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+}
+
+@media screen{
+.hands {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+}
+
+@media screen{
+.lips {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+}
+
+@media screen{
+.eyes {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.legs {
+}
+.hannds {
+}
+}
+
+@media screen{
+.head {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+}
